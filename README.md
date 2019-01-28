@@ -4,7 +4,7 @@
 
 Submitted by: **Gabriel Cabrera**
 
-Time spent: **5** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+    There were issues early on with the emulator and the hardware acceleration issue, but after that initial issue, everything was straightforward and worked just fine with minimal error.
 
 ## License
 
